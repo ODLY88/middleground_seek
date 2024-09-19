@@ -1,4 +1,4 @@
-# middleground_seek_web
+# middleground_seek
 
 ## Project setup
 ```
